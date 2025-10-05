@@ -23,17 +23,7 @@ This is a simple To-Do List application developed for Android using Java and SQL
 3. Build and run the project on an Android emulator or physical device.
 4. Start managing your tasks efficiently!
 
-## Screenshots
-![ToDoList App Screenshot](app/Tasks.png)
-![Add List](app/add_tasks.png)
-![Edit Task](app/edit_tasks.png)
-## Contact Information
-
 - **Developer**: Rahul Reddy Mallam
 - **Email**: mrahulreddy1811@gmail.com
 - **College**: AITS Tirupati
-## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
